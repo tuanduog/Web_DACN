@@ -12,30 +12,6 @@
 
 ---------------------------------------------------------------
 
- 
-## Fear of God
-
-![](https://thegioidohieu.com/images/feature_variant/17/fear-of-god-logo.jpg)
-
-
-## Contributors
-- TienKim
-- QuocToan
-- MinhHieu
-
-## ERD
-<img src="https://firebasestorage.googleapis.com/v0/b/todo-app-tienkim.appspot.com/o/diagram.PNG?alt=media&token=656d0b0c-0540-4257-a90a-3c024f50946b" />
-
-## USECASE
-<h3>* Khách Hàng</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/todo-app-tienkim.appspot.com/o/KhachHang.PNG?alt=media&token=07f504bd-6d34-4da4-abe7-a82de78293d2" />
-
-<h3>* Nhân Viên Bán Hàng</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/todo-app-tienkim.appspot.com/o/NhanVien.PNG?alt=media&token=a6f82edc-64fc-4086-bcd9-0ba490f213eb" />
-
-<h3>* ADMIN</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/todo-app-tienkim.appspot.com/o/Admin.PNG?alt=media&token=0e9b75b8-1720-402b-9f76-b64614fe7f12" />
-
 ## DESIGN DATABASE
 
 - Product: _id, id_category, name_product, price_product, image, describe, gender, number
